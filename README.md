@@ -8,9 +8,3 @@ Representational State Transfer
 - Nommage des variables
 - Formatage
 - PHP : Namespace
-
-## Todo
-
-TP1 :
-
-- [ ] (#1)Remplacer mysqli par PDO
