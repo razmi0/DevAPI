@@ -1,6 +1,8 @@
 # REST
 
-⚠️ **CODE PROPRE**
+Representational State Transfer
+
+**CODE PROPRE** :
 
 - Commentaires
 - Nommage des variables
